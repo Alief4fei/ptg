@@ -1,2 +1,2 @@
 # ptg
-ini jawab soal ptg
+ini jawaban soal ptg
