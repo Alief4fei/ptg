@@ -108,7 +108,6 @@ class BinarySearchTree:
             return node
 
         self.root = build(preorder_list, float('-inf'), float('inf'))
-        print("BST berhasil dibuat dari preorder.")
 
     def clear(self): # buat hapus bst
         self.root = None
